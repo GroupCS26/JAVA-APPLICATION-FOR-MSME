@@ -1,5 +1,3 @@
-+=========================================================+
-
 # ✦ UMKM-Digital-Assistant
 
 ![Teks paragraf Anda](https://github.com/user-attachments/assets/5d2081ad-1720-4815-879a-021a8cd5817e)
@@ -34,6 +32,11 @@ Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaa
 # ➤ Program Aplikasi UMKM Digital Assistant (GUI)
 
 ## ╰┈➤ Halaman Utama
+dihalaman ini adalah tampilan jika kalian menggunakan aplikasi kami, disini tempat kalian buat memilih untuk memilih untuk masuk ke login jik sudah memiliki akun atau masuk ke menu daftar untuk mendaftarkan umkm kalian
+Dihalaman ini terdapat beberapa tombol :
+- Masuk (halaman untuk kalian yang sudah punya akun atau sudah mendaftarkan Umkm kalian)
+- Daftar (halaman jika kalian belum mempunyai akun di aplikasi kami)
+- Keluar (jika kalian ingin menghentikan atau keluar dari aplikasi kami)
 
 <img width="1189" height="894" alt="Screenshot 2025-11-04 150129" src="https://github.com/user-attachments/assets/a5154c9f-c70c-4068-b93d-0405abc51d29" />
 
