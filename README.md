@@ -36,9 +36,13 @@ Contoh: Di kelas model/User, atribut seperti username dan password dideklarasika
 
 ## ╰┈➤ Abstraction
 Abstraksi adalah konsep dalam OOP yang digunakan untuk menyembunyikan detail implementasi yang kompleks dan hanya menampilkan hal-hal penting yang relevan. Tujuannya agar program menjadi lebih sederhana, mudah dipahami, dan fokus pada apa yang dilakukan, bukan bagaimana dilakukan.
+
+
 <img width="762" height="678" alt="image" src="https://github.com/user-attachments/assets/cc8b43c1-cdb2-499f-a3e9-f43bb6a4fb4a" />
 
 Abstraksi diterapkan melalui class User yang bersifat abstrak dan menjadi cetak biru bagi setiap tipe pengguna dalam sistem (Pemilik dan Pegawai). Dengan cara ini, sistem dapat memperlakukan semua user secara seragam namun tetap mempertahankan identitas dan perilaku spesifik masing-masing melalui implementasi method abstrak getRoleName().
+
+
 ## ╰┈➤ Inheritance
 Pewarisan memungkinkan sebuah kelas baru (subclass) untuk mewarisi field dan method dari kelas yang sudah ada (superclass), mempromosikan penggunaan ulang kode.
 
