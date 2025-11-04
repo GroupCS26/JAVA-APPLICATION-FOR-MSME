@@ -106,6 +106,8 @@ Fitur Input dan Filter Data:
 
 Cetak Laporan: Tombol untuk mencetak hasil laporan yang telah difilter.
 
+<img width="446" height="331" alt="image" src="https://github.com/user-attachments/assets/7e189124-dac8-499f-988e-efbdcf386a1b" />
+
 ### ╰┈┈┈┈➤ Stok
 dihalaman ini kalian akan menemukan Menu Stok. Kalian bisa mengelola data produk dengan mengisi beberapa kolom input dan ada tabel data produk:
 
@@ -114,7 +116,9 @@ dihalaman ini kalian akan menemukan Menu Stok. Kalian bisa mengelola data produk
 - Tombol Aksi yang Tersedia: Tambah,Hapus,Update, dan Clear
 
 - Tabel Produk: Menampilkan data produk dengan kolom seperti ID P*, Nama, Harga, Stok, dan Keterangan.
-  
+
+<img width="429" height="326" alt="image" src="https://github.com/user-attachments/assets/2bc92812-7b32-4b1e-9a31-099c5b34b236" />
+
 
 ### ╰┈┈┈┈➤ Profile
 
@@ -129,6 +133,8 @@ Input Data yang Harus Diisi:
 - Alamat Usaha: Detail lokasi toko kalian.
 
 Terdapat tombol SAVE untuk menyimpan perubahan.
+
+<img width="404" height="305" alt="image" src="https://github.com/user-attachments/assets/7ffaea63-171e-4696-a7dc-d3d1a07e971c" />
 
 #### ╰┈┈┈┈┈┈┈┈┈┈┈┈➤ Profile Kelola Pegawai
 Kalau kalian punya karyawan, di sinilah tempat kalian mengurus semua data mereka, termasuk ID Pegawai, Posisi, dan akun login mereka.Input Data Pegawai yang Harus Diisi:
@@ -156,6 +162,8 @@ Tombol Aksi untuk Mengelola Data:
 
 - Clear: Membersihkan semua kolom input.
 
+<img width="516" height="391" alt="image" src="https://github.com/user-attachments/assets/8834b7a3-e023-4f09-83b5-fbfde5953708" />
+
 #### ╰┈┈┈┈┈┈┈┈┈┈┈┈➤ Profile Pofile Admin
 dihalaman ini, kalian fokus mengelola data akun kalian sendiri sebagai administrator atau pemilik usaha.Kalian Harus Mengisi dan Mengelola Data Ini:
 
@@ -171,12 +179,13 @@ dihalaman ini, kalian fokus mengelola data akun kalian sendiri sebagai administr
 
 - Masa Jabatan: (Berdasarkan gambar terbaru) Ini mungkin kolom tambahan untuk mencatat periode tugas/jabatan kalian.
 
-
 Tombol yang Tersedia:
 
 SAVE: Kalau kalian sudah selesai mengubah data, klik ini biar perubahannya tersimpan.
 
 Keluar: Tombol untuk log out dari akun kalian.
+
+<img width="489" height="372" alt="image" src="https://github.com/user-attachments/assets/1429ec42-5d14-4f14-891a-532ac9fc3367" />
 
 ## ╰┈➤ PEGAWAI UMKM
 
