@@ -7,6 +7,27 @@
 - Muh Haikal Adis Yafiq
 - Mohamad Ariel Saputra D Loi
 
+# ➤ Libraries
+Di Program Aplikasi kami memiliki beberapa libraries yaitu :
+
+- mysql-connector-j-9.5.0
+  
+ni adalah library wajib kalau kalian mau aplikasi ini bisa menyimpan dan mengambil data!. Library ini berfungsi sebagai penghubung antara program Java kalian dengan database MySQL. Tanpa ini, data stok, transaksi, login akun, dan data pegawai kalian tidak akan tersimpan. Ini ibarat jembatan yang menghubungkan program kalian ke gudang data utama.
+  
+- slf4j-api-2.0.0-alpha7
+
+Ini adalah Simple Logging Facade for Java. Ini bukan library untuk mencetak log (catatan) secara langsung, tapi lebih sebagai antarmuka atau perantara yang memungkinkan program kalian menggunakan berbagai sistem logging yang berbeda.Ini adalah library yang bertugas mencatat apa saja yang terjadi di belakang layar aplikasi. Kalau ada error atau sesuatu yang perlu dicatat buat debugging, dia yang mengurus agar catatan itu bisa dibaca developer.
+  
+- HikariCP-4.0.0
+
+Ini adalah library untuk koneksi pooling database. Jadi, saat banyak bagian aplikasi butuh mengakses database dalam waktu bersamaan (misalnya saat kasir sibuk), HikariCP ini yang mengatur antrean koneksi datanya supaya cepat dan efisien.Kalau kalian mau aplikasi kalian anti-lemot saat transaksi lagi ramai, HikariCP ini penyelamatnya! Dia buat koneksi ke database jadi super cepat dan ringan.
+
+- jcalendar-1.4
+
+Sesuai namanya, library ini menyediakan komponen kalender yang mudah digunakan di Java. Komponen ini memungkinkan pengguna memilih tanggal dengan mudah, bukan mengetik manual.Kalian lihat di Menu Laporan ada kolom Dari Tanggal dan Sampai Tanggal. Nah, komponen tanggal yang muncul saat kalian klik tombol kalender itu dibuat pakai library
+  
+<img width="634" height="187" alt="image" src="https://github.com/user-attachments/assets/89d6e43d-7ad0-45ee-97d5-e909114aa876" />
+
 # ➤ Deskripsi Aplikasi
 
 UMKM Digital Assistant adalah sebuah platform digital yang dirancang untuk mendukung transformasi digital pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di Indonesia. Sebagai bagian dari upaya mewujudkan Sustainable Development Goals (SDG) nomor 8: Decent Work and Economic Growth, program ini bertujuan untuk meningkatkan efisiensi, produktivitas, dan daya saing UMKM di era ekonomi digital.
