@@ -28,7 +28,7 @@ Sesuai namanya, library ini menyediakan komponen kalender yang mudah digunakan d
   
 <img width="634" height="187" alt="image" src="https://github.com/user-attachments/assets/89d6e43d-7ad0-45ee-97d5-e909114aa876" />
 
-# ➤ Libraries
+# ➤ Usecase & Flowchart
 Flowchart UseCase Ada di dalam 1 File Draw.io
 
 https://drive.google.com/file/d/1EwEzs52_5kHdTLgqORxj0Cmjx5hiE2wt/view?usp=sharing
