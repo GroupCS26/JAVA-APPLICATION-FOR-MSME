@@ -39,6 +39,7 @@ Pewarisan memungkinkan sebuah kelas baru (subclass) untuk mewarisi field dan met
 
 Implementasi: Menggunakan kata kunci extends.
 Contoh (Model Peran): Implementasi model peran yang baru: Pegawai extends User dan Pemilik extends User.
+
 <img width="830" height="575" alt="image" src="https://github.com/user-attachments/assets/387a500f-00e0-4b5a-bb45-b1a050c08530" />
 <img width="808" height="495" alt="image" src="https://github.com/user-attachments/assets/ce7b6435-61e1-4da5-a7ff-90f06e8fd4a6" />
 
