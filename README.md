@@ -43,22 +43,50 @@ Dihalaman ini terdapat beberapa tombol :
 <img width="1189" height="894" alt="Screenshot 2025-11-04 150129" src="https://github.com/user-attachments/assets/a5154c9f-c70c-4068-b93d-0405abc51d29" />
 
 ## ╰┈➤ Halaman Daftar
-
+dihalaman ini kalian akan disambut dengan tulisan Selamat Bergabung. kalian akan diminta untuk mengisi beberapa data diri dan usaha, seperti Nama Lengkap, Username, Password, Kontak, Nama Usaha, dan Alamat Usaha. setelah semua terisi, kalian bisa menekan tombol Daftar untuk membuat akun.
 <img width="1193" height="904" alt="Screenshot 2025-11-04 150257" src="https://github.com/user-attachments/assets/58852da1-0fbc-41ff-af5c-90fd5429e960" />
 
 ## ╰┈➤ Halaman Login
-
+dihalaman ini kalian akan disambut dengan tulisan Masuk! untuk mengingatkan kalian agar segera mengelola usaha kalian bersama kami. kalian harus memasukkan Username dan Password kalian untuk bisa melanjutkan ke halaman utama aplikasi.
 <img width="1186" height="901" alt="Screenshot 2025-11-04 150139" src="https://github.com/user-attachments/assets/4f538ffd-6157-4896-8987-5fd6c1075b0a" />
 
 ## ╰┈➤ ADMIN UMKM
 
 ### ╰┈┈┈┈➤ Home
+dihalaman ini kalian akan disambut dengan tulisan Selamat Datang. Halaman ini berfungsi sebagai kartu nama digital untuk usaha kalian, menampilkan informasi penting seperti:
+
+- Nama Usaha: Contohnya adalah Roti Manis Mulia.
+
+- Alamat Usaha: Contohnya Jl. Pahlawan No. 12, Samarinda,....
+  
+- Kontak: Contohnya 081234567890.
+
+<img width="494" height="362" alt="image" src="https://github.com/user-attachments/assets/33167826-8b16-46aa-848f-3c54af861206" />
 
 ### ╰┈┈┈┈➤ Kasir
+halaman ini kalian akan menemukan Menu Laporan. Tampilan ini sepertinya berfungsi untuk melihat ringkasan transaksi. Kalian bisa memfilter tampilan data transaksi berdasarkan Dari Tanggal dan Sampai Tanggal , serta ada kolom data seperti ID Transaksi, Tanggal, Total (Rp), Nama Produk, Jumlah, dan Subtotal., karena terdapat dua bagian:
+
+- Tabel Transaksi
+  
+- Tabel Detail
+   
 ![WhatsApp Image 2025-11-04 at 15 18 01_a28584bc](https://github.com/user-attachments/assets/70f5684e-38a9-4020-8f9e-ea66e6899903)
 
-
 ### ╰┈┈┈┈➤ Laooran
+dihalaman ini kalian akan menemukan Menu Stok. Kalian bisa mengelola data produk dengan mengisi beberapa kolom input dan ada tabel data produk:
+
+Input Data Produk:
+
+↪ ID Produk,Nama Produk,Kategori,Harga,Satuan, dan Keterangan
+
+
+Tombol Aksi yang Tersedia:
+
+↪ Tambah,Hapus,Update, dan Clear
+
+Tabel Produk:
+
+Menampilkan data produk dengan kolom seperti ID P*, Nama, Harga, Stok, dan Keterangan.
 
 ### ╰┈┈┈┈➤ Stok
 
