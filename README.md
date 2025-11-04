@@ -26,6 +26,12 @@ Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaa
 # ➤ 5 Pilar Pemrograman Berorientasi Objek
 
 ## ╰┈➤ Encapsulation
+Enkapsulasi adalah prinsip OOP untuk melindungi data internal sebuah objek dari akses yang tidak terkontrol dari luar. Ini dilakukan dengan menggabungkan data (fields) dan kode (methods) yang beroperasi pada data tersebut ke dalam satu unit (kelas) dan membatasi akses.
+
+Implementasi: Dicapai dengan mendeklarasikan fields sebagai private dan menyediakan public methods (Getter dan Setter) untuk mengakses atau memodifikasi data tersebut secara terkontrol.
+
+Contoh: Di kelas model/User, atribut seperti username dan password dideklarasikan secara privat, dan akses ke sana harus melalui method publik:
+
 ## ╰┈➤ Abstraction
 ## ╰┈➤ Inheritance
 ## ╰┈➤ Polymorphism
