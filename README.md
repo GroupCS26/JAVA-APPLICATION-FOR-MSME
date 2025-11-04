@@ -31,6 +31,7 @@ Enkapsulasi adalah prinsip OOP untuk melindungi data internal sebuah objek dari 
 Implementasi: Dicapai dengan mendeklarasikan fields sebagai private dan menyediakan public methods (Getter dan Setter) untuk mengakses atau memodifikasi data tersebut secara terkontrol.
 
 Contoh: Di kelas model/User, atribut seperti username dan password dideklarasikan secara privat, dan akses ke sana harus melalui method publik:
+<img width="1101" height="522" alt="image" src="https://github.com/user-attachments/assets/914f3932-d2e2-420e-a898-a24f8d39b02e" />
 
 ## ╰┈➤ Abstraction
 ## ╰┈➤ Inheritance
