@@ -19,36 +19,8 @@ teknis atau akuntansi yang rumit. Melalui digitalisasi proses bisnis, UMKM Digit
 Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaan ekonomi digital yang inklusif, membuka akses bagi pelaku UMKM untuk terhubung ke ekosistem bisnis modern, memperluas pasar, serta memperkuat kontribusi terhadap pertumbuhan ekonomi nasional.
 
 # ➤ Struktur Aplikasi
-📂 PBO_Capstone/
-├── 📂 src/
-│   └── 📂 com/
-│       └── 📂 umkm/
-│           └── 📂 app/
-│               ├── 📂 model/
-│               │   ├── 📜 DatabaseConnector.java
-│               │   ├── 📜 SessionManager.java
-│               │   ├── 📜 UserUmkm.java
-│               │   ├── 📜 Produk.java
-│               │   ├── 📜 Transaksi.java
-│               │   └── 📜 Laporan.java
-│               ├── 📂 service/
-│               │   ├── 📜 AdminService.java
-│               │   ├── 📜 ProdukService.java
-│               │   ├── 📜 TransaksiService.java
-│               │   └── 📜 LaporanService.java
-│               └── 📂 view/
-│                   ├── 📜 MainFrame.java
-│                   ├── 📜 LoginForm.java
-│                   ├── 📜 DashboardPanel.java
-│                   ├── 📜 TransaksiForm.java
-│                   ├── 📜 ProdukForm.java
-│                   └── 📜 LaporanPanel.java
-│   └── 📜 Main.java  <-- Kelas utama berada di root paket com.umkm.app
-├── 📂 libs/  <-- Tempat menaruh semua file JAR
-│   ├── 📜 mysql-connector-j-9.4.0.jar
-│   ├── 📜 AbsoluteLayout.jar
-│   └── 📜 HikariCP-4.0.0.jar (dll.)
-└── 📜 README.md  <-- File untuk deskripsi proyek di GitHub
+<img width="534" height="724" alt="image" src="https://github.com/user-attachments/assets/ff834b21-0e18-4b1a-869b-26c6aeb72802" />
+
 <img width="1920" height="1403" alt="WKAW" src="https://github.com/user-attachments/assets/2c63aa41-1d19-403c-b070-3aefb196692c" />
 
 # ➤ 5 Pilar Pemrograman Berorientasi Objek
