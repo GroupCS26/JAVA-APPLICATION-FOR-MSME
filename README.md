@@ -88,24 +88,95 @@ halaman ini kalian akan menemukan Menu Laporan. Tampilan ini sepertinya berfungs
 ![WhatsApp Image 2025-11-04 at 15 18 01_a28584bc](https://github.com/user-attachments/assets/70f5684e-38a9-4020-8f9e-ea66e6899903)
 
 ### ╰┈┈┈┈➤ Laooran
-dihalaman ini kalian akan menemukan Menu Stok. Kalian bisa mengelola data produk dengan mengisi beberapa kolom input dan ada tabel data produk:
+Dihalaman ini, kalian dapat melihat dan memfilter data transaksi untuk mendapatkan analisis yang lebih mendalam.
 
-Input Data Produk:
+Fitur Input dan Filter Data:
 
-↪ ID Produk,Nama Produk,Kategori,Harga,Satuan, dan Keterangan
+- Pilihan Jenis Laporan (Filter Dropdown) : Kalian dapat memilih jenis laporan yang ingin ditampilkan, contoh yang terlihat adalah Analisis Produk Terlaris.
 
+- Filter Tanggal :
+  
+  Dari Tanggal: Input untuk menentukan tanggal awal periode laporan.
 
-Tombol Aksi yang Tersedia:
+  Sampai Tanggal: Input untuk menentukan tanggal akhir periode laporan.
 
-↪ Tambah,Hapus,Update, dan Clear
+  Terdapat tombol untuk memilih tanggal, misalnya tanggal 4 Mei 2020 terlihat sudah dipilih di salah satu gambar.
+  
+- Tombol Aksi: :
 
-Tabel Produk:
-
-Menampilkan data produk dengan kolom seperti ID P*, Nama, Harga, Stok, dan Keterangan.
+Cetak Laporan: Tombol untuk mencetak hasil laporan yang telah difilter.
 
 ### ╰┈┈┈┈➤ Stok
+dihalaman ini kalian akan menemukan Menu Stok. Kalian bisa mengelola data produk dengan mengisi beberapa kolom input dan ada tabel data produk:
+
+- Input Data Produk: ID Produk,Nama Produk,Kategori,Harga,Satuan, dan Keterangan
+
+- Tombol Aksi yang Tersedia: Tambah,Hapus,Update, dan Clear
+
+- Tabel Produk: Menampilkan data produk dengan kolom seperti ID P*, Nama, Harga, Stok, dan Keterangan.
+  
 
 ### ╰┈┈┈┈➤ Profile
+
+#### ╰┈┈┈┈┈┈┈┈┈┈┈┈➤ Profile Pengaturan Toko
+Tab ini difokuskan untuk mengatur informasi yang berkaitan dengan bisnis kalian secara umum. Ini adalah data yang akan ditampilkan ke pelanggan atau di halaman utama aplikasi.Kalian akan disambut dengan tulisan Selamat Datang di, ....
+
+
+Input Data yang Harus Diisi:
+
+- Nama Usaha: Nama yang akan muncul sebagai identitas toko kalian.
+
+- Alamat Usaha: Detail lokasi toko kalian.
+
+Terdapat tombol SAVE untuk menyimpan perubahan.
+
+#### ╰┈┈┈┈┈┈┈┈┈┈┈┈➤ Profile Kelola Pegawai
+Kalau kalian punya karyawan, di sinilah tempat kalian mengurus semua data mereka, termasuk ID Pegawai, Posisi, dan akun login mereka.Input Data Pegawai yang Harus Diisi:
+
+- ID Pegawai: Nomor unik identitas pegawai.
+
+- Nama: Nama lengkap pegawai.
+
+- Username: Nama untuk login si pegawai.
+
+- Password: Kata sandi akun pegawai.
+
+- Kontak: Nomor kontak pegawai.
+
+- Posisi: Jabatan si pegawai (misalnya, Kasir).
+
+
+Tombol Aksi untuk Mengelola Data:
+
+- Tambah (Hijau): Buat kalian yang baru merekrut karyawan baru.
+
+- Update (Biru): Kalau ada data karyawan yang berubah, misalnya Posisi atau Kontak.
+
+- Hapus (Merah): Jika ada pegawai yang sudah tidak bekerja lagi.
+
+- Clear: Membersihkan semua kolom input.
+
+#### ╰┈┈┈┈┈┈┈┈┈┈┈┈➤ Profile Pofile Admin
+dihalaman ini, kalian fokus mengelola data akun kalian sendiri sebagai administrator atau pemilik usaha.Kalian Harus Mengisi dan Mengelola Data Ini:
+
+- Nama: Nama lengkap kalian (Contoh: Rina Anggraini).
+
+- Username: Nama yang kalian gunakan untuk masuk ke aplikasi.
+
+- Password: Kata sandi akun kalian.
+
+- Kontak: Nomor telepon yang bisa dihubungi (Contoh: 081234567890).
+
+- Nama Usaha: Nama resmi UMKM kalian.
+
+- Masa Jabatan: (Berdasarkan gambar terbaru) Ini mungkin kolom tambahan untuk mencatat periode tugas/jabatan kalian.
+
+
+Tombol yang Tersedia:
+
+SAVE: Kalau kalian sudah selesai mengubah data, klik ini biar perubahannya tersimpan.
+
+Keluar: Tombol untuk log out dari akun kalian.
 
 ## ╰┈➤ PEGAWAI UMKM
 
