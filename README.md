@@ -16,8 +16,10 @@ teknis atau akuntansi yang rumit. Melalui digitalisasi proses bisnis, UMKM Digit
 
 Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaan ekonomi digital yang inklusif, membuka akses bagi pelaku UMKM untuk terhubung ke ekosistem bisnis modern, memperluas pasar, serta memperkuat kontribusi terhadap pertumbuhan ekonomi nasional.
 
-# ➤ Struktur Aplikasi
+# ➤ Struktur Aplikasi dan Struktur File
+
 <img width="534" height="724" alt="image" src="https://github.com/user-attachments/assets/ff834b21-0e18-4b1a-869b-26c6aeb72802" />
+
 
 <img width="1920" height="1403" alt="WKAW" src="https://github.com/user-attachments/assets/2c63aa41-1d19-403c-b070-3aefb196692c" />
 
