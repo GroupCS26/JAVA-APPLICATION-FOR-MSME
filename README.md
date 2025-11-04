@@ -25,6 +25,7 @@ Lebih dari sekadar alat bantu, UMKM Digital Assistant menjadi sarana pemberdayaa
 
 # ➤ 5 Pilar Pemrograman Berorientasi Objek
 
+
 ## ╰┈➤ Encapsulation
 Enkapsulasi adalah prinsip OOP untuk melindungi data internal sebuah objek dari akses yang tidak terkontrol dari luar. Ini dilakukan dengan menggabungkan data (fields) dan kode (methods) yang beroperasi pada data tersebut ke dalam satu unit (kelas) dan membatasi akses.
 
@@ -34,6 +35,10 @@ Contoh: Di kelas model/User, atribut seperti username dan password dideklarasika
 <img width="1101" height="522" alt="image" src="https://github.com/user-attachments/assets/914f3932-d2e2-420e-a898-a24f8d39b02e" />
 
 ## ╰┈➤ Abstraction
+Abstraksi adalah konsep dalam OOP yang digunakan untuk menyembunyikan detail implementasi yang kompleks dan hanya menampilkan hal-hal penting yang relevan. Tujuannya agar program menjadi lebih sederhana, mudah dipahami, dan fokus pada apa yang dilakukan, bukan bagaimana dilakukan.
+<img width="762" height="678" alt="image" src="https://github.com/user-attachments/assets/cc8b43c1-cdb2-499f-a3e9-f43bb6a4fb4a" />
+
+Abstraksi diterapkan melalui class User yang bersifat abstrak dan menjadi cetak biru bagi setiap tipe pengguna dalam sistem (Pemilik dan Pegawai). Dengan cara ini, sistem dapat memperlakukan semua user secara seragam namun tetap mempertahankan identitas dan perilaku spesifik masing-masing melalui implementasi method abstrak getRoleName().
 ## ╰┈➤ Inheritance
 Pewarisan memungkinkan sebuah kelas baru (subclass) untuk mewarisi field dan method dari kelas yang sudah ada (superclass), mempromosikan penggunaan ulang kode.
 
@@ -45,7 +50,20 @@ Contoh (Model Peran): Implementasi model peran yang baru: Pegawai extends User d
 
 
 ## ╰┈➤ Polymorphism
+Polymorphism (Polimorfisme) adalah kemampuan objek untuk memiliki bentuk yang berbeda meskipun diakses melalui tipe referensi yang sama.
+
+Dalam sistem UMKM ini, Polymorphism diterapkan pada class User yang bersifat abstrak. Class Pegawai dan Pemilik men-override method getRoleName(). Sehingga, saat program memanggil getRoleName() dari referensi User, outputnya akan berbeda sesuai objek yang login. Hal ini memungkinkan sistem mengenali akses halaman yang sesuai untuk Pegawai dan Pemilik tanpa membuat kode login terpisah.
+
+<img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/ed89ffba-b8d9-4cb4-908f-117fe7f4b842" />
+
+<img width="435" height="116" alt="image" src="https://github.com/user-attachments/assets/8772fc2f-14a2-48a9-9c60-4613581fc3db" />
+
 ## ╰┈➤ Interface
+Interface adalah mekanisme dalam OOP yang digunakan untuk mendefinisikan kontrak perilaku berupa kumpulan method tanpa implementasi. Class yang mengimplementasikan interface wajib menyediakan isi atau logika dari method-method tersebut. Interface membantu menciptakan kode yang fleksibel, mudah dikembangkan, dan mendukung konsep Loose Coupling.
+
+Peran Interface dalam Sistem:
+Interface IUserdao berfungsi sebagai kontrak yang menentukan fungsi-fungsi dasar yang harus dimiliki oleh setiap implementasi pengelolaan data User dan UMKM. Dengan adanya interface, program menjadi lebih terstruktur, mudah diperluas, dan fleksibel, karena perubahan implementasi tidak mengubah logika pada bagian lain dari sistem.
+<img width="698" height="627" alt="image" src="https://github.com/user-attachments/assets/d0a76760-7bf8-4d26-8919-f71ce3a74ee3" />
 
 # ➤ Program Aplikasi UMKM Digital Assistant (GUI)
 
