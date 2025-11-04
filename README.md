@@ -212,15 +212,25 @@ Keluar: Tombol untuk log out dari akun kalian.
 ## ╰┈➤ PEGAWAI UMKM
 
 ### ╰┈┈┈┈➤ Home
-
+Dihalaman ini itu secara teknis sama saja dia itu menampilkan informasi dari yang punya akun, jadi di halaman ini ini ada tulisan selamat datang, (nama pegawai yang login)
+lalu ada format date yang menampilkan hari dan jam sekarang. dan juga ada tombol untuk keluar dari menu Pegawai
 <img width="1202" height="892" alt="Screenshot 2025-11-04 150325" src="https://github.com/user-attachments/assets/3bca6cb3-2fbf-4aab-885d-dea6634c4e03" />
 
 ### ╰┈┈┈┈➤ Kasir
+jadi dihalaman kasir pegawai itu akan menampilkan produk dari umkm tersebut lalu kita bisa memasukan jumlah barang yang di beli lalu sistemnya akan membaca semua barang yang di masukan ke keranjang lalu ketika kita memencet simpan transaksi dia akan mengurangi jumlah stok dari barang yang di beli tadi. di halaman ini terdapat beberapa tombol :
 
+- Tombol Tambah Keranjang ( Untuk menambah produk sesuai dengan jumlah yang dibeli)
+- Tombol Simpan Transaksi ( Untuk Menyimpan Transaksi dan dia langsung melakukan proses penguranngan pada stok)
+- Tombol Kemballi Ke Home (Untuk Kembali Ke Menu Home)
+  
 <img width="1398" height="847" alt="Screenshot 2025-11-04 150343" src="https://github.com/user-attachments/assets/70b8c2ec-09d7-462f-96e3-ccdc8351ee5c" />
 
 ### ╰┈┈┈┈➤ Stok
+Dihalaman ini pegawai mengatur stok dari umkm mereka dan disini juga tempatnya buat manajemen stok, dengan beberapa tombol yaitu :
 
+- Tambah Produk (untuk menambah produk baru ke ddalam list barang mereka)
+- Ubah Stok (Untuk mengubah stok mereka tanpa lewat transaksi)
+- TOmbol Kembali Ke Home ( Untuk Menu kembali ke home)
 <img width="1173" height="731" alt="Screenshot 2025-11-04 150403" src="https://github.com/user-attachments/assets/ce3591d8-5899-4b08-b6f4-9d665f456085" />
 
 
