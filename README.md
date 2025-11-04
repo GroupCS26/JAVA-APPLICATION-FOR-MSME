@@ -77,7 +77,7 @@ dihalaman ini kalian akan disambut dengan tulisan Selamat Datang. Halaman ini be
   
 - Kontak: Contohnya 081234567890.
 
-<img width="494" height="362" alt="image" src="https://github.com/user-attachments/assets/33167826-8b16-46aa-848f-3c54af861206" />
+<img width="1205" height="883" alt="Screenshot 2025-11-04 175719" src="https://github.com/user-attachments/assets/01b02b64-e5b9-4436-9736-80e85c1ae6b8" />
 
 ### ╰┈┈┈┈➤ Kasir
 halaman ini kalian akan menemukan Menu Laporan. Tampilan ini sepertinya berfungsi untuk melihat ringkasan transaksi. Kalian bisa memfilter tampilan data transaksi berdasarkan Dari Tanggal dan Sampai Tanggal , serta ada kolom data seperti ID Transaksi, Tanggal, Total (Rp), Nama Produk, Jumlah, dan Subtotal., karena terdapat dua bagian:
@@ -107,7 +107,7 @@ Fitur Input dan Filter Data:
 
 Cetak Laporan: Tombol untuk mencetak hasil laporan yang telah difilter.
 
-<img width="446" height="331" alt="image" src="https://github.com/user-attachments/assets/7e189124-dac8-499f-988e-efbdcf386a1b" />
+<img width="1204" height="893" alt="Screenshot 2025-11-04 175712" src="https://github.com/user-attachments/assets/0756d0a7-4327-479c-a9e2-865ca159933d" />
 
 ### ╰┈┈┈┈➤ Stok
 dihalaman ini kalian akan menemukan Menu Stok. Kalian bisa mengelola data produk dengan mengisi beberapa kolom input dan ada tabel data produk:
@@ -118,8 +118,7 @@ dihalaman ini kalian akan menemukan Menu Stok. Kalian bisa mengelola data produk
 
 - Tabel Produk: Menampilkan data produk dengan kolom seperti ID P*, Nama, Harga, Stok, dan Keterangan.
 
-<img width="429" height="326" alt="image" src="https://github.com/user-attachments/assets/2bc92812-7b32-4b1e-9a31-099c5b34b236" />
-
+<img width="1198" height="912" alt="Screenshot 2025-11-04 175726" src="https://github.com/user-attachments/assets/25772799-9e5a-416d-9fc0-6142c413152e" />
 
 ### ╰┈┈┈┈➤ Profile
 
@@ -135,7 +134,7 @@ Input Data yang Harus Diisi:
 
 Terdapat tombol SAVE untuk menyimpan perubahan.
 
-<img width="404" height="305" alt="image" src="https://github.com/user-attachments/assets/7ffaea63-171e-4696-a7dc-d3d1a07e971c" />
+<img width="1033" height="658" alt="Screenshot 2025-11-04 185409" src="https://github.com/user-attachments/assets/1311488e-f854-45c1-92bf-5a95dd558a55" />
 
 #### ╰┈┈┈┈┈┈┈┈┈┈┈┈➤ Profile Kelola Pegawai
 Kalau kalian punya karyawan, di sinilah tempat kalian mengurus semua data mereka, termasuk ID Pegawai, Posisi, dan akun login mereka.Input Data Pegawai yang Harus Diisi:
@@ -163,7 +162,7 @@ Tombol Aksi untuk Mengelola Data:
 
 - Clear: Membersihkan semua kolom input.
 
-<img width="516" height="391" alt="image" src="https://github.com/user-attachments/assets/8834b7a3-e023-4f09-83b5-fbfde5953708" />
+<img width="1205" height="913" alt="Screenshot 2025-11-04 175736" src="https://github.com/user-attachments/assets/b0ac7d33-0d00-4031-a2cc-bcf4afdeebd9" />
 
 #### ╰┈┈┈┈┈┈┈┈┈┈┈┈➤ Profile Pofile Admin
 dihalaman ini, kalian fokus mengelola data akun kalian sendiri sebagai administrator atau pemilik usaha.Kalian Harus Mengisi dan Mengelola Data Ini:
@@ -186,7 +185,7 @@ SAVE: Kalau kalian sudah selesai mengubah data, klik ini biar perubahannya tersi
 
 Keluar: Tombol untuk log out dari akun kalian.
 
-<img width="489" height="372" alt="image" src="https://github.com/user-attachments/assets/1429ec42-5d14-4f14-891a-532ac9fc3367" />
+<img width="1210" height="921" alt="Screenshot 2025-11-04 175742" src="https://github.com/user-attachments/assets/afb6b669-35c3-411f-95a7-f5a69e32471e" />
 
 ## ╰┈➤ PEGAWAI UMKM
 
